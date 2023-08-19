@@ -1,4 +1,4 @@
-import { useState } from "react"
+import "./global.css"
 import Accordion from "./Component/Accordion"
 
 function App(){
